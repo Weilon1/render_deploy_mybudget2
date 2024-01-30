@@ -31,7 +31,7 @@ from app import app
 
 
 
-app.layout = dbc.Col([
+layout = dbc.Col([
             dbc.Row([
                 dbc.Col([
                         dbc.Row([
