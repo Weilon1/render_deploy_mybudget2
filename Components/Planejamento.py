@@ -30,7 +30,7 @@ from app import app
 
 
 
-layout = dbc.Col([
+app.layout = dbc.Col([
             dbc.Row([ # LINHA 1
                 dbc.Col([
                     dbc.Card([
