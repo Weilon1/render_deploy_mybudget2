@@ -16,7 +16,7 @@ import pdb
 
 
 # ========= Layout ========= #
-app.layout = dbc.Col([
+layout = dbc.Col([
                 html.H1('MyBudget', className='text-primary'),
                 html.H1('By Weilon', className='text-info'),
                 html.Hr(),
