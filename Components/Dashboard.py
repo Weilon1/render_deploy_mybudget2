@@ -23,7 +23,7 @@ import pdb
 
 load_figure_template([template_theme])
 
-layout = dbc.Col([
+app.layout = dbc.Col([
     # Row 1
     dbc.Row([ 
 
