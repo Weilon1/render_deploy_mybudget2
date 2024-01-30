@@ -1,3 +1,3 @@
-web: gunicorn myindex:app.server
+web: gunicorn myindex:server
 
 
