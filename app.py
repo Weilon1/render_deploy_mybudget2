@@ -2,8 +2,8 @@ import dash
 import dash_bootstrap_components as dbc
 from dash_bootstrap_templates import load_figure_template
 
-url_theme = dbc.themes.DARKLY
-template_theme = 'DARKLY'
+url_theme = dbc.themes.VAPOR
+template_theme = 'VAPOR'
 
 estilos = ["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css", "https://fonts.googleapis.com/icon?family=Material+Icons", url_theme]
 dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates@V1.0.4/dbc.min.css"
