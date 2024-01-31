@@ -1,0 +1,57 @@
+,Data,Valor,Categoria,Tipo,MetodoPagamento
+0,2023-06-05,785.0,Custos Fixos,Custos Fixos,Débito
+1,2023-06-05,130.0,Custos Fixos,Custos Fixos,Débito
+2,2023-06-05,80.0,Custos Fixos,Agua,Débito
+3,2023-06-06,127.0,Custos Fixos,Luz,Débito
+4,2023-06-06,412.0,Custos Fixos,Custos Fixos,Débito
+5,2023-06-01,455.0,Custos Fixos,Mercado,Débito
+6,2023-06-26,30.0,Custos Fixos,Custos Fixos,Débito
+7,2023-06-25,30.0,Custos Fixos,Custos Fixos,Débito
+8,2023-07-05,785.0,Custos Fixos,Custos Fixos,Débito
+9,2023-07-15,259.0,Prazeres,Rodizio Japa,Débito
+10,2023-07-11,30.0,Custos Fixos,Custos Fixos,Débito
+11,2023-08-05,375.0,Custos Fixos,Custos Fixos,Débito
+12,2023-08-04,30.0,Custos Fixos,Custos Fixos,Débito
+13,2023-08-04,200.0,Custos Fixos,Mercado,Débito
+14,2023-08-04,30.0,Custos Fixos,Custos Fixos,Débito
+15,2023-08-01,59.9,Prazeres,Cartão de Crédito - Premiere,Crédito
+16,2023-08-01,102.85,Custos Fixos,Cartão de Crédito - Mercado,Crédito
+17,2023-08-01,73.26,Custos Fixos,Cartão de Crédito - Paróquia,Crédito
+18,2023-08-01,30.0,Custos Fixos,Cartão de Crédito - Sem Parar,Crédito
+19,2023-08-01,23.0,Custos Fixos,Cartão de Crédito - Farma,Crédito
+20,2023-08-01,73.42,Custos Fixos,Cartão de Crédito - Mercado,Crédito
+21,2023-08-01,30.0,Custos Fixos,Cartão de Crédito - Gasolina,Crédito
+22,2023-08-01,22.98,Custos Fixos,Cartão de Crédito - Mercado,Crédito
+23,2023-08-01,20.24,Custos Fixos,Cartão de Crédito - Mercado,Crédito
+24,2023-08-01,19.9,Prazeres,Cartão de Crédito - Prime Video,Crédito
+25,2023-08-01,19.9,Prazeres,Cartão de Crédito - Spotify,Crédito
+26,2023-08-01,30.0,Custos Fixos,Cartão de Crédito - Sem parar,Crédito
+27,2023-08-01,125.0,Custos Fixos,Cartão de Crédito - Celular Naty,Crédito
+28,2023-08-01,39.9,Prazeres,Cartão de Crédito - Uber,Crédito
+29,2023-08-01,30.0,Custos Fixos,Cartão de Crédito - Gasolina,Crédito
+30,2023-08-01,12.0,Prazeres,Cartão de Crédito - Estacionamento,Crédito
+31,2023-08-01,12.0,Prazeres,Cartão de Crédito - Manelinho Bar,Crédito
+32,2023-08-01,30.0,Custos Fixos,Cartão de Crédito - Gasolina,Crédito
+33,2023-08-01,42.0,Prazeres,Cartão de Crédito - F A Pintura,Crédito
+34,2023-08-01,39.9,Prazeres,Cartão de Crédito - Netflix,Crédito
+35,2023-08-01,50.0,Custos Fixos,Cartão de Crédito - Gasolina,Crédito
+36,2023-08-01,263.78,Custos Fixos,Cartão de Crédito - Rodizio Japa,Crédito
+37,2023-08-01,30.0,Custos Fixos,Cartão de Crédito - Gasolina,Crédito
+38,2023-08-01,60.59,Custos Fixos,Cartão de Crédito - Gasolina,Crédito
+39,2023-08-01,110.0,Prazeres,Cartão de Crédito - Tatu Bola,Crédito
+40,2023-08-01,30.0,Custos Fixos,Cartão de Crédito - Gasolina,Crédito
+41,2023-08-01,38.97,Prazeres,Cartão de Crédito - Mercado Livre,Crédito
+42,2023-08-01,43.28,Custos Fixos,Cartão de Crédito - Farmácia,Crédito
+43,2023-08-01,30.0,Custos Fixos,Cartão de Crédito - Gasolina,Crédito
+44,2023-08-01,156.25,Prazeres,Cartão de Crédito - ifood,Crédito
+45,2023-08-01,34.4,Prazeres,Cartão de Crédito - Mercado Livre,Crédito
+46,2023-08-01,675.65,Prazeres,Cartão de Crédito - Bateria,Crédito
+47,2023-08-01,236.22,Custos Fixos,Cartão de Crédito - IPVA,Crédito
+48,2023-08-01,56.9,Prazeres,Cartão de Crédito - Mercado Livre,Crédito
+49,2023-08-01,100.0,Prazeres,Cartão de Crédito - Tênis,Crédito
+50,2023-08-01,100.0,Conhecimento,Cartão de Crédito - Asimov Python,Crédito
+51,2023-08-01,131.75,Conhecimento,Cartão de Crédito - Presente,Crédito
+52,2024-01-02,785.0,Conforto,Financiamento Carro (3/48),Débito
+53,2024-01-02,195.0,Custos Fixos,Seguro Carro (3/10),Débito
+54,2024-01-13,205.0,Custos Fixos,Veterinário,Débito
+55,2024-01-06,35.0,Conforto,Lava Rápido,Débito
